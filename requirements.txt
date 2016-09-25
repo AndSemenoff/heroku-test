@@ -1,0 +1,15 @@
+Flask==0.11.1
+Flask-Babel==0.11.1
+Flask-Bootstrap==3.3.7.0
+Flask-Cors==2.1.2
+Flask-Login==0.3.2
+Flask-OAuth==0.12
+Flask-OpenID==1.2.5
+Flask-SQLAlchemy==2.1
+Flask-WhooshAlchemy==0.56
+Flask-WTF==0.12
+Jinja2==2.8
+MarkupSafe==0.23
+Werkzeug==0.11.10
+gunicorn==19.6
+itsdangerous==0.24
